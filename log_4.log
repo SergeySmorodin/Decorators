@@ -1,0 +1,14 @@
+2024-12-03 00:35:33 - function_name: __init__, args: (<__main__.FlatIterator object at 0x000002E13585CCE0>, [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]]), result: None
+2024-12-03 00:35:33 - function_name: __iter__, args: (<__main__.FlatIterator object at 0x000002E13585CCE0>), result: <__main__.FlatIterator object at 0x000002E13585CCE0>
+2024-12-03 00:35:33 - function_name: __next__, args: (<__main__.FlatIterator object at 0x000002E13585CCE0>), result: a
+2024-12-03 00:35:33 - function_name: __next__, args: (<__main__.FlatIterator object at 0x000002E13585CCE0>), result: b
+2024-12-03 00:35:33 - function_name: __next__, args: (<__main__.FlatIterator object at 0x000002E13585CCE0>), result: c
+2024-12-03 00:35:33 - function_name: __next__, args: (<__main__.FlatIterator object at 0x000002E13585CCE0>), result: d
+2024-12-03 00:35:34 - function_name: __next__, args: (<__main__.FlatIterator object at 0x000002E13585CCE0>), result: e
+2024-12-03 00:35:34 - function_name: __next__, args: (<__main__.FlatIterator object at 0x000002E13585CCE0>), result: f
+2024-12-03 00:35:35 - function_name: __next__, args: (<__main__.FlatIterator object at 0x000002E13585CCE0>), result: h
+2024-12-03 00:35:35 - function_name: __next__, args: (<__main__.FlatIterator object at 0x000002E13585CCE0>), result: False
+2024-12-03 00:35:35 - function_name: __next__, args: (<__main__.FlatIterator object at 0x000002E13585CCE0>), result: 1
+2024-12-03 00:35:35 - function_name: __next__, args: (<__main__.FlatIterator object at 0x000002E13585CCE0>), result: 2
+2024-12-03 00:35:35 - function_name: __next__, args: (<__main__.FlatIterator object at 0x000002E13585CCE0>), result: None
+2024-12-03 00:35:35 - function_name: format_phone, args: ('8 495947 88 09'), result: +7(495)947-88-09

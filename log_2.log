@@ -1,0 +1,4 @@
+2024-12-03 00:33:40 - function_name: hello_world, args: (), result: Hello World
+2024-12-03 00:33:40 - function_name: summator, args: (2, 2), result: 4
+2024-12-03 00:33:40 - function_name: div, args: (6, 2), result: 3.0
+2024-12-03 00:33:40 - function_name: summator, args: (4.3, b=2.2), result: 6.5
